@@ -1,0 +1,17 @@
+current directory: /Users/sunshineemy/Desktop/Work/react-native/NewsApp/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20240718-12242-q1hcnu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sunshineemy/Desktop/Work/react-native/NewsApp/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" clean
+
+current directory: /Users/sunshineemy/Desktop/Work/react-native/NewsApp/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR="
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: search path '/AppleInternal/Library/BuildRoots/963b5f7b-9a46-11ee-9573-1ae9d66b0597/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.3.Internal.sdk/usr/local/lib' not found
+
+current directory: /Users/sunshineemy/Desktop/Work/react-native/NewsApp/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240718-12242-gsw6w
